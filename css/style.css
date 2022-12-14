@@ -133,6 +133,8 @@ a:-webkit-any-link {
   background-size: cover;
   cursor: pointer;
   animation: animate 20s linear infinite;
+    display: flex;
+  justify-content: flex-start;
 }
 @keyframes animate
 {
